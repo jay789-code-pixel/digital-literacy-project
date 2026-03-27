@@ -1,8 +1,8 @@
 # Task 4 – Email Etiquette & Digital Responsibility
 
 **Name:** Jay Dholakia
-**Roll No:** 25BAI10094
-**Branch:** B.Tech CSE (AI & ML)
+**Registration No:** 25BAI10094
+**Branch:** B.Tech CSE (AI & ML) – Sem 1
 **University:** VIT Bhopal
 
 ---
@@ -20,7 +20,7 @@
 
 Dear Dr. Sharma,
 
-I hope you are doing well. I'm Jay Verma from your DSA class (CSE2002, Section L31). I'm writing to ask if I can get a short extension on the assignment due on 3rd April.
+I hope you are doing well. I'm Jay Dholakia from your DSA class (CSE2002, Section L31). I'm writing to ask if I can get a short extension on the assignment due on 3rd April.
 
 I've been unwell this past week and it's affected my work. I've done most of the coding part but couldn't finish the testing and the report in time.
 
@@ -29,16 +29,16 @@ If possible, could I please get time till 8th April? I'll make sure to submit pr
 Sorry for the trouble, and thank you for understanding.
 
 Regards,
-**Jay Verma**
-21BCE1234 | CSE AI & ML, Sem 4
-jay.verma2021@vitbhopal.ac.in
+**Jay Dholakia**
+25BAI10094 | CSE AI & ML
+jay.dholakia2025@vitbhopal.ac.in
 
 ---
 
 ### Email 2 – Applying for a Summer Internship
 
 **To:** Ms. Anika Mehta, Internship Coordinator – TechAxis Solutions
-**From:** Jay Dholakia (25BAI10094)
+**From:** Jay Dholakia
 **Date:** 28 March 2026
 **Subject:** Internship Application – AI/ML | Summer 2026
 
@@ -46,7 +46,7 @@ jay.verma2021@vitbhopal.ac.in
 
 Dear Ms. Mehta,
 
-I'm Jay Verma, a third-year CSE student (AI & ML) from VIT Bhopal with a CGPA of 8.7. I came across TechAxis's internship opening on our college portal and would love to apply.
+I'm Jay Dholakia, a CSE student (AI & ML) from VIT Bhopal. I came across TechAxis's internship opening on our college portal and would love to apply.
 
 I've worked on projects in machine learning and data analysis, and I'm comfortable with Python and PyTorch. I'm genuinely interested in the kind of work TechAxis does, especially in AI-based products.
 
@@ -55,10 +55,10 @@ I'm available from 1st May and open to both on-site and remote formats. I've att
 Thank you for your time!
 
 Regards,
-**Jay Verma**
+**Jay Dholakia**
 B.Tech CSE (AI & ML) – VIT Bhopal
-jay.verma2021@vitbhopal.ac.in | +91-98765-43210
-github.com/jay-verma-ml
+jay.dholakia2025@vitbhopal.ac.in | +91-98765-43210
+github.com/jay-dholakia-ml
 
 ---
 
@@ -68,27 +68,24 @@ For college students who want to keep their online presence clean and responsibl
 
 ### ✅ Do's
 
-| # | Do | Why |
-|---|----|----|
-| 1 | Think before you post | Once it's online, it's hard to take back |
-| 2 | Keep LinkedIn and professional profiles clean | Recruiters do check these |
-| 3 | Fact-check before sharing news or info | Spreading false info can hurt your reputation |
-| 4 | Use privacy settings | Not everything needs to be public |
-| 5 | Give credit when you share someone else's work | It's just the right thing to do |
-| 6 | Be kind and supportive online | The internet remembers how you treat people |
-| 7 | Take breaks from social media | It genuinely helps with focus and mental health |
+- **Think before you post** – once it's online, it's hard to take back
+- **Keep LinkedIn and professional profiles clean** – recruiters do check these
+- **Fact-check before sharing news or info** – spreading false info can hurt your reputation
+- **Use privacy settings** – not everything needs to be public
+- **Give credit when you share someone else's work** – it's just the right thing to do
+- **Be kind and supportive online** – the internet remembers how you treat people
+- **Take breaks from social media** – it genuinely helps with focus and mental health
 
 ### ❌ Don'ts
 
-| # | Don't | Why |
-|---|-------|----|
-| 1 | Post anything offensive or hateful | It can affect your college life and job chances |
-| 2 | Share personal info like your address or schedule publicly | Safety first |
-| 3 | Get into online fights or arguments | It never ends well |
-| 4 | Post about others without asking them | Respect their privacy |
-| 5 | Rant about college, professors, or classmates online | It reflects badly on you, not them |
-| 6 | Copy or repost content without crediting the creator | That's plagiarism |
-| 7 | Rely on social media when you're going through something hard | Talk to someone real instead |
+- **Don't post anything offensive or hateful** – it can affect your college life and job chances
+- **Don't share personal info publicly** like your address or daily schedule – safety first
+- **Don't get into online fights or arguments** – it never ends well
+- **Don't post about others without asking them** – respect their privacy
+- **Don't rant about college, professors, or classmates online** – it reflects badly on you, not them
+- **Don't copy or repost content without crediting the creator** – that's plagiarism
+- **Don't rely on social media when you're going through something hard** – talk to someone real instead
 
 ---
+
 
