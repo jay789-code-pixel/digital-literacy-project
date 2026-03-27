@@ -1,8 +1,8 @@
 # Task 4 – Email Etiquette & Digital Responsibility
 
-**Name:** Jay Verma
-**Roll No:** 21BCE1234
-**Branch:** B.Tech CSE (AI & ML) – Sem 4
+**Name:** Jay Dholakia
+**Roll No:** 25BAI10094
+**Branch:** B.Tech CSE (AI & ML)
 **University:** VIT Bhopal
 
 ---
@@ -12,7 +12,7 @@
 ### Email 1 – Asking a Professor for an Extension
 
 **To:** Dr. Priya Sharma
-**From:** Jay Verma (21BCE1234)
+**From:** Jay Dholakia (25BAI10094)
 **Date:** 28 March 2026
 **Subject:** Request for Extension – Data Structures Assignment
 
@@ -38,7 +38,7 @@ jay.verma2021@vitbhopal.ac.in
 ### Email 2 – Applying for a Summer Internship
 
 **To:** Ms. Anika Mehta, Internship Coordinator – TechAxis Solutions
-**From:** Jay Verma
+**From:** Jay Dholakia (25BAI10094)
 **Date:** 28 March 2026
 **Subject:** Internship Application – AI/ML | Summer 2026
 
