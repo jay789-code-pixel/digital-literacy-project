@@ -6,7 +6,7 @@
 **Registration No:** 25BAI10094
 
 
-**Branch:** B.Tech CSE (AI & ML) – Sem 1
+**Branch:** B.Tech CSE (AI & ML)
 
 
 **University:** VIT Bhopal
@@ -45,7 +45,7 @@ Sorry for the trouble, and thank you for understanding.
 Regards,
 **Jay Dholakia**
 25BAI10094 | CSE AI & ML
-jay.dholakia2025@vitbhopal.ac.in
+jay.25bai10094@vitbhopal.ac.in
 
 ---
 
@@ -79,8 +79,7 @@ Thank you for your time!
 Regards,
 **Jay Dholakia**
 B.Tech CSE (AI & ML) – VIT Bhopal
-jay.dholakia2025@vitbhopal.ac.in |
-github.com/jay-dholakia-ml
+jay.25bai10094@vitbhopal.ac.in
 
 ---
 
