@@ -28,13 +28,13 @@ project/
 
 ## ✅ Tasks Overview
 
-### Task 1 — Digital Literacy Infographic *(20 marks)*
+### Task 1 — Digital Literacy Infographic 
 Made a one-page visual that explains what Digital Literacy is — covering safe internet practices, useful student tools, and professional online presence.
 
 
 ---
 
-### Task 2 — Student Digital Portfolio *(20 marks)*
+### Task 2 — Student Digital Portfolio 
 Set up profiles on **GitHub**, **LinkedIn**, and **Kaggle**. Created a GitHub profile README with my name, branch, year, and learning goals.
 
 #### Profiles
@@ -45,7 +45,7 @@ Set up profiles on **GitHub**, **LinkedIn**, and **Kaggle**. Created a GitHub pr
 
 ---
 
-### Task 3 — Coding & Collaboration Platforms *(20 marks)*
+### Task 3 — Coding & Collaboration Platforms 
 - Completed a beginner challenge on **HackerRank**
 - Built a **5-question Digital Literacy Quiz** using Google Forms (linked to a Google Sheet for responses)
 
@@ -55,7 +55,7 @@ Set up profiles on **GitHub**, **LinkedIn**, and **Kaggle**. Created a GitHub pr
 
 ---
 
-### Task 4 — Professional Email & Etiquette Guide *(20 marks)*
+### Task 4 — Professional Email & Etiquette Guide 
 - Wrote 2 professional emails (one to a professor, one to an internship coordinator)
 - Created a **Social Media Do's and Don'ts checklist**
 
@@ -63,7 +63,7 @@ Set up profiles on **GitHub**, **LinkedIn**, and **Kaggle**. Created a GitHub pr
 
 ---
 
-### Task 5 — Cybercrime Awareness *(20 marks)*
+### Task 5 — Cybercrime Awareness 
 - Wrote a **case study on Phishing** — what it is, how it happens, who gets targeted, and the consequences
 - Created a **Stay Safe Online checklist** with 8+ tips including 2 UPI-specific tips
 
