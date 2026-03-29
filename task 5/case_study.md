@@ -82,6 +82,5 @@ Within minutes, ₹87,000 was transferred out of his account.
 Name : Jay Dholakia
 Reg. No. : 25BAI10094
 Branch : CSE (AI & ML)
-University : VIT Bhopal
 
 ---
