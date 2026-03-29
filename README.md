@@ -1,4 +1,4 @@
-# 🎓 Digital Literacy Project — VIT Bhopal
+# 🎓 Digital Literacy Project
 
 
 
